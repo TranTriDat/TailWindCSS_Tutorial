@@ -19,8 +19,8 @@ function App() {
     {/* <Notification /> */}
     {/* <Subscriptions /> */}
     {/* <JobPositions /> */}
-    {/* <AccountList /> */}
-    <LandingPage />
+    <AccountList />
+    {/* <LandingPage /> */}
     </div>;
 }
 

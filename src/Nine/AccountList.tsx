@@ -100,22 +100,22 @@ export const AccountList = () => {
 
             <div>{account.accounts} accounts</div>
 
-            <button className="h-10 w-10 items-center justify-center rounded-full bg-white">
+            <button className="h-10 w-10 flex items-center justify-center rounded-full bg-white">
               <svg
-                className="h-6 w-6 text-gray-800"
-                aria-hidden="true"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                fill="none"
-                viewBox="0 0 24 24"
+              className="h-6 w-6 text-gray-800"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              fill="none"
+              viewBox="0 0 24 24"
               >
-                <path
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-width="2"
-                  d="M6 12h.01m6 0h.01m5.99 0h.01"
-                />
+              <path
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-width="2"
+                d="M6 12h.01m6 0h.01m5.99 0h.01"
+              />
               </svg>
             </button>
           </div>
